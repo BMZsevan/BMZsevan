@@ -49,3 +49,48 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boutique Dropshipping</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f5f5f5; }
+        .produit { display: inline-block; width: 250px; padding: 20px; margin: 20px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .produit .image { width: 100px; height: 100px; background: linear-gradient(45deg, #ff6b6b, #ffa502); border-radius: 50%; margin: 10px auto; }
+        button { padding: 10px 20px; background: #ff4757; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #e84118; }
+    </style>
+</head>
+<body>
+
+    <h1>Ma Boutique Dropshipping</h1>
+    
+    <div class="produit">
+        <div class="image"></div>
+        <h3>Parfum Élégance</h3>
+        <p>Prix: 15€</p>
+        <button>Acheter</button>
+    </div>
+
+    <div class="produit">
+        <div class="image"></div>
+        <h3>Élastiques Cheveux</h3>
+        <p>Prix: 3€</p>
+        <button>Acheter</button>
+    </div>
+
+    <div class="produit">
+        <div class="image"></div>
+        <h3>Rouge à lèvres</h3>
+        <p>Prix: 10€</p>
+        <button>Acheter</button>
+    </div>
+
+</body>
+</html>
